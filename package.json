@@ -1,0 +1,15 @@
+{
+  "name": "otp-input-component",
+  "version": "0.1.1",
+  "description": "this is a otp input package for React-native apps",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "otp fiels",
+    "react-native",
+    "android",
+    "Ios"
+  ],
+  "author": "sunny",
+  "license": "ISC"
+}
