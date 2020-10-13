@@ -10,6 +10,7 @@
     "android",
     "Ios"
   ],
+  "repository": "https://github.com/sunny-sk/otp-input-component",
   "author": "sunny",
   "license": "ISC"
 }
